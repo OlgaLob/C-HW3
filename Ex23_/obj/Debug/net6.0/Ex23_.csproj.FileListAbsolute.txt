@@ -1,0 +1,15 @@
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\bin\Debug\net6.0\Ex23_.exe
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\bin\Debug\net6.0\Ex23_.deps.json
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\bin\Debug\net6.0\Ex23_.runtimeconfig.json
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\bin\Debug\net6.0\Ex23_.dll
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\bin\Debug\net6.0\Ex23_.pdb
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\obj\Debug\net6.0\Ex23_.csproj.AssemblyReference.cache
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\obj\Debug\net6.0\Ex23_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\obj\Debug\net6.0\Ex23_.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\obj\Debug\net6.0\Ex23_.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\obj\Debug\net6.0\Ex23_.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\obj\Debug\net6.0\Ex23_.dll
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\obj\Debug\net6.0\refint\Ex23_.dll
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\obj\Debug\net6.0\Ex23_.pdb
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\obj\Debug\net6.0\Ex23_.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Git_edu\HW3\Ex23_\obj\Debug\net6.0\ref\Ex23_.dll
